@@ -7,6 +7,7 @@ For the assignment1:
     Figure3: hist of sample mean
     
 For the assignment2:
+
     Null Hypothesis:The ratio of Subscribers biking on weekends over Subscribers biking on weekdays is the same or higher than the ratio of                     Customers biking over weekends to Customers biking on weekdays.
     The significance level is 0.05 which means i want the probability of getting a result at least as significant as mine to be less then        5%.
     I'm using the data of citibike in 201705.
@@ -19,6 +20,7 @@ For the assignment2:
        (3).Distribution of Citibike bikers by usertype in May 2017, normalized
 
 For the assignment3:
+
     Null Hypothesis:The new commute time is the same or larger as the old commute time
     
     1. Open csv and get data.
