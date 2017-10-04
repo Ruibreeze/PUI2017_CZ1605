@@ -1,5 +1,7 @@
 For the assignment1:
+
     I choose the distributions of Chisquare、Poisson、Normal、Binomial、Geometric and for each of the 5 distributions I creat 3 figures.
+    
     Figure1: distribution of 100 sample(mean=100)
     Figure2: distribution of sample mean
     Figure3: hist of sample mean
