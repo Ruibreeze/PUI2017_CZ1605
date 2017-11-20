@@ -1,4 +1,4 @@
-![Alt text](bc1561.png)
+![Alt text](hiv_race.png)
 ## Review:
 
 #### CLARITY: 
