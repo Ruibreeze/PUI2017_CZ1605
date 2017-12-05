@@ -14,6 +14,24 @@
 #### AETHETIC: 
 * The whole plot only has two colors, including black and gray. I think using more colorful colors will attract readers more since there are 5 subplots.
 
+# FBB the number of colors is apppropriate to display the info as each plot has a single variable 
 
 #### HONESTY: 
 * The plot shows 5 simple linear regression results and honestly reproduces the data. 
+
+#  FBB feedback
+esthetics: the poor resolution of the plot is distracting and unappealing
+
+the points are at the edge of the x and y axis: this is a poor esthetic choice: while all the info content is there (or would be there if there were labels on the axis) it is distracting - on the other end the x axis on the right side extends inexplicably past the farthest datapoint. this unbalance is also distracting
+
+clarity the points overlap and cluster in a way that makes them undistinguishable - consider using the alpha channel (transparency)
+
+the x labeles are way too small for comfortable reading
+
+the comparison between the slopes is difficult both because of how the plots are organized (one below the other, which is the worse organization to compare slopes) and because, as you mentioned, of the different lencth
+
+while the multiple small plots is in the spirit of Tufte's "small multiples" the missing x and y axis are an issue. Tufte would be horrified by the omission. With different axis length this information is essential. If all plots had the same axis span and units (like I think is the case for the y axis) it would be reasonable to omit in all but one of the plots. Also to encourage comparison the plot should be more compact: reduce the y space between panels
+
+
+
+10/10
